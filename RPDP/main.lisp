@@ -1,0 +1,6 @@
+(load "eqn-ana.lisp")
+(load "k--final.lisp")
+(load "rein.lisp")
+(load "slab thickness.lisp")
+(load "table2.lisp")
+(load "tbl-test.lisp")
